@@ -1,0 +1,862 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "ltJA_dUGaFyfG7u2Q82WhZwbdgc",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "X4LDUhSa25oVjhNINb4rATKYD-o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1F7I77_qZmk"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-07T19:00:00Z",
+        "channelId": "UCo_q6aOlvPH7M-j_XGWVgXg",
+        "title": "POV RAW CLIPS - INSANE SESSION AT CLOUD BREAK!!!",
+        "description": "STAY PSYCHED MERCHANDISE: https://staypsyched.com - JAMIE O'BRIEN SURF SCHOOL TURTLE BAY HAWAII ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1F7I77_qZmk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1F7I77_qZmk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1F7I77_qZmk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jamie O'Brien",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-07T19:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6cmvaQrSUzDXJ7SOZitxgTmmViU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WjHfyMsxMhY"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-07T11:00:29Z",
+        "channelId": "UCzcQOTuXYGuCvTekySb_CeQ",
+        "title": "Ladies Drawn To Swell Magnet – The Bukit",
+        "description": "Another day of small waves had surfers visiting their favourite swell magnet. This spot on Bali's Bukit had some good sized sets ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WjHfyMsxMhY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WjHfyMsxMhY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WjHfyMsxMhY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Surfers of Bali",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-07T11:00:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XWtvBjXIcgplBqotd5t3ulHX2AA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "W7h-Yho8EB0"
+      },
+      "snippet": {
+        "publishedAt": "2019-06-15T15:21:45Z",
+        "channelId": "UCqhnX4jA0A5paNd1v-zEysw",
+        "title": "GoPro: Top 10 Surf Moments",
+        "description": "Celebrate International Surf Day with GoPro's Top 10 Surf Moments. Shot 100% on GoPro: http://bit.ly/2wUMwfI Get stoked and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W7h-Yho8EB0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W7h-Yho8EB0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W7h-Yho8EB0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GoPro",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-06-15T15:21:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jdRHP48n2e8uMEf-7K5KKeo-JGw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ma67yOdMQfs"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-23T17:00:15Z",
+        "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+        "title": "These Were The All-Time Surfing Moments Of The Year | Best Of 2020",
+        "description": "Well, that was a weird ride. Though it hasn't been easy, at least when we fixed our gaze on the ocean — or favorite place in the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ma67yOdMQfs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ma67yOdMQfs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ma67yOdMQfs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Red Bull Surfing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-23T17:00:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "k-3FqnfFr8GkgdXW3oqoDZMfh2I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Smgql_DESn8"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-15T10:59:56Z",
+        "channelId": "UC9rMiEjNaCSsebs31MRDCRA",
+        "title": "Stray Kids &quot;Surfin&#39; (리노, 창빈, 필릭스)(Surfin&#39; (Lee Know, Changbin, Felix))&quot; Video",
+        "description": "Stray Kids(스트레이 키즈) \"Surfin' (리노, 창빈, 필릭스)(Surfin' (Lee Know, Changbin, Felix))\" Video Stray Kids THE 2ND ALBUM ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Smgql_DESn8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Smgql_DESn8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Smgql_DESn8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Stray Kids",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-15T10:59:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KoA__k7E1RUYzBVIbQ0N7rjjBMQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "j1AQ_s-y52M"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-16T19:00:13Z",
+        "channelId": "UCvOh9i-BOFzu51rpj33fGag",
+        "title": "7 tips to transition from beginner to intermediate | How to Surf",
+        "description": "In this video, we break down our 7 best tips on how to transition from Beginner to Intermediate faster. 00:00 Intro 00:24 Surf The ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j1AQ_s-y52M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j1AQ_s-y52M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j1AQ_s-y52M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Barefoot Surf",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-16T19:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pp7yqX45H8Mr81m50XbmmcS1Yhk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "c6lU-xYRjFA"
+      },
+      "snippet": {
+        "publishedAt": "2022-03-28T18:58:35Z",
+        "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+        "title": "The World Loves Surfing | Best Of Red Bull Surfing 2021",
+        "description": "What a year. 2021 was packed to the gills with everything the surfing world has to offer. Whether it be world title races, the biggest ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c6lU-xYRjFA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c6lU-xYRjFA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c6lU-xYRjFA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Red Bull Surfing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-03-28T18:58:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lu9gGuR0iMs0LKAQ7CRaocY71A4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wDHQo4RT8cs"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-05T15:00:36Z",
+        "channelId": "UCyG8LQXPDH7WPuobykGStcQ",
+        "title": "Best of the Best &quot;Hybrid One Board Quiver&quot; Surfboard Series Ep 2",
+        "description": "Where to Buy Boards: Surfboard Empire (Australia): ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wDHQo4RT8cs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wDHQo4RT8cs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wDHQo4RT8cs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Surf n Show Reviews",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-05T15:00:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "n0hHVfAlJmz_qmbnxBeMeHDN6qY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IBOrV71TG1A"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-06T19:30:00Z",
+        "channelId": "UCJBWZDkunrjWh50Etxdys2g",
+        "title": "RARE SAN DIEGO BEACH BREAK BARRELS",
+        "description": "RARE SAN DIEGO BEACH BREAK BARRELS. Let's face it, peaky barrels in San Diego are not common. Luckily a solid WNW ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IBOrV71TG1A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IBOrV71TG1A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IBOrV71TG1A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SoCal Surfer",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-06T19:30:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "reAGZmgtKzbJjVMDXNrJrhTLCoc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MA1i1xZ6eys"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-06T20:42:20Z",
+        "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
+        "title": "The Best 22 Waves Of The 2022 Challenger Series",
+        "description": "The 22 highest scored waves from the 2022 Challenger Series - featuring John John Florence, Stephanie Gilmore, Eithan ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MA1i1xZ6eys/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MA1i1xZ6eys/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MA1i1xZ6eys/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "World Surf League",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-06T20:42:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zl8XieW87Cl1e8r4rUYbNVcLhIs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9_1iP4BL1uM"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-05T18:00:05Z",
+        "channelId": "UCetqivVVEGv6diBDDM0ItQg",
+        "title": "SURFING FIRING WAVES &amp; FREE-DIVING WITH SHARKS // LAKEY PETERSON",
+        "description": "Happy Monday y'all!! This weeks content is truly epic. Enjoy watching some fun size Backdoor, rocky point and Laniakea followed ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9_1iP4BL1uM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9_1iP4BL1uM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9_1iP4BL1uM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lakey Peterson",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-05T18:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GSBiQUDAmQorSbBbqHWj7S28DAU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "R7HjkU-nCTQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-05T19:00:07Z",
+        "channelId": "UCo_q6aOlvPH7M-j_XGWVgXg",
+        "title": "RARE SANDBAR FIRES ON THE NORTH SHORE! (CRAZY BARRELS)",
+        "description": "STAY PSYCHED MERCHANDISE: https://staypsyched.com - JAMIE O'BRIEN SURF SCHOOL TURTLE BAY HAWAII ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/R7HjkU-nCTQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/R7HjkU-nCTQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/R7HjkU-nCTQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jamie O'Brien",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-05T19:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CgJ0sRuvkIfUyOSgECCagm1WloE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "U3TWF6q-K_g"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-03T18:15:01Z",
+        "channelId": "UCVON3uSMa4xdEGlzYZzs34Q",
+        "title": "Surfing Pipeline - IT&#39;S CRAZY!!! - December 02, 2022",
+        "description": "Big waves and a big crowd of surfers at the Pipeline on December 2nd, 2022 in Hawaii. Surfers include: Kalani Chapman ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U3TWF6q-K_g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U3TWF6q-K_g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U3TWF6q-K_g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Paul Topp",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-03T18:15:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tQehfvyD5Bj04hi-Jd4_0lx4wSs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eSWST13stO4"
+      },
+      "snippet": {
+        "publishedAt": "2022-03-27T15:00:32Z",
+        "channelId": "UCVo06dBGK9VBBhq15wJxZHQ",
+        "title": "🔵4k (ASMR) 10 Hour Store Loop - Hawaii Surfing - With Relaxing Music☑️",
+        "description": "Waves of the World Filmers: Chris Kincade: https://www.instagram.com/chriskincade.wotw Andre Botha: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eSWST13stO4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eSWST13stO4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eSWST13stO4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Waves of the World",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-03-27T15:00:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "K6Xi2E0nVr6tVkd3XHnBIRlHsjU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HiRE90FkWg8"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-08T03:11:08Z",
+        "channelId": "UCVo06dBGK9VBBhq15wJxZHQ",
+        "title": "Golden Hour Pipeline Dec 2nd #short #wavesoftheworld #surfing",
+        "description": "WATCH MORE FULL EDITS now showing on our YouTube channel: https://www.youtube.com/watch?v=PG_J6QH1MiM Waves of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HiRE90FkWg8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HiRE90FkWg8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HiRE90FkWg8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Waves of the World",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-08T03:11:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eQVzZ4P7DBRRg669hqPlTHr2nxc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SQBbCxcdhkA"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-03T01:49:57Z",
+        "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
+        "title": "John John Florence, Kanoa Igarashi, Ryan Callinan, Michael Rodrigues | Haleiwa Challenger FINAL",
+        "description": "Heat Replay of John John Florence, Kanoa Igarashi, Ryan Callinan, Miguel Rodrigues | Haleiwa Challenger, at Home in the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SQBbCxcdhkA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SQBbCxcdhkA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SQBbCxcdhkA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "World Surf League",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-03T01:49:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iya1YBCPSGWZoT8mTJIrU-e6XtM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ru25rqvNo1Y"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-07T16:48:48Z",
+        "channelId": "UCrrK1Ek0XI0miBz9fFF_CnA",
+        "title": "SUBWAY SURFERS MAS TA ᵖᵉᑫᵘᵉⁿᵒ",
+        "description": "Participe da World Trading Cup da Binomo com um prêmio total de $ 300.000: https://binomo-br.com/Igu1_yt Use também meu ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ru25rqvNo1Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ru25rqvNo1Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ru25rqvNo1Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "+Igu",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-07T16:48:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "S_YsfBnyN7NPyah_lpcyqo3uP1A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VM5z0BHLeD4"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-02T07:00:08Z",
+        "channelId": "UC3DIR1s_jw1wr4p4wWg7JGQ",
+        "title": "SOLID SURF HITS KIRRA.",
+        "description": "A solid south easterly swell hit the coast today (02 Dec 2022) with some solid surf hitting Coolangatta with Kirra being the pick of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VM5z0BHLeD4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VM5z0BHLeD4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VM5z0BHLeD4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Raw Surfing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-02T07:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5Wn52OTcQR70JwSINn-XqPMZRcI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VN8XlEDMkHs"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-07T07:22:45Z",
+        "channelId": "UC3DIR1s_jw1wr4p4wWg7JGQ",
+        "title": "KIRRA MADNESS",
+        "description": "A solid swell hit the Gold Coast late last week and Kirra was the break of choice with everyone trying to get the barrel of a lifetime.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VN8XlEDMkHs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VN8XlEDMkHs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VN8XlEDMkHs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Raw Surfing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-07T07:22:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MIIxG7FJ50b7xZY9olzLPhom9hE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LWw2atJY4Rw"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-07T14:00:17Z",
+        "channelId": "UCJn355XRwzLd-klJxzkM_qw",
+        "title": "The BEST Silver Surfer Decks to Climb to Infinite FAST | BUSTED Pool 3 Decks | Marvel Snap Guide",
+        "description": "The Newest Card in Marvel Snap. The Silver Surfer Herald of Galactus bring immense power to not only EVERY Archetype, but ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LWw2atJY4Rw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LWw2atJY4Rw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LWw2atJY4Rw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cozy Snap",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-07T14:00:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QVxYw26hqolYYMlTQnvR_Ble0WM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xYbOw5EdHrc"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-06T07:00:46Z",
+        "channelId": "UC8pmG8IGaDyDTc6xBJiyXBQ",
+        "title": "Blue Skies &amp; 35* - South Stradbroke Island - Tuesday 6 December 2022",
+        "description": "Blue Skies & 35* - South Stradbroke Island , A light offshore , hot weather and some swell made for a great summers morning ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xYbOw5EdHrc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xYbOw5EdHrc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xYbOw5EdHrc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Surf Today ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-06T07:00:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "f1Fc94uJKvzXIojSmenFDP1ct_8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pmlzdeZuAk8"
+      },
+      "snippet": {
+        "publishedAt": "2021-02-27T14:28:13Z",
+        "channelId": "UCxkIzPnPzWLz4IeuxIROflg",
+        "title": "What Surfing Is ACTUALLY Like as a Beginner",
+        "description": "See what it's actually like to surf as a beginner, including why it's fun and why it kind of sucks at times! Click below to join the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pmlzdeZuAk8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pmlzdeZuAk8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pmlzdeZuAk8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Travis Marziani",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-02-27T14:28:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "U0V_OG1YzZ8kRtsr1ZNh78ujcbg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3hLsOdsY2I8"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-05T05:14:33Z",
+        "channelId": "UCZhixj2QS9WzrluwSc9iCzA",
+        "title": "Opening Ceremony - 2022 Pismo Beach ISA World Para Surfing Championship",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3hLsOdsY2I8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3hLsOdsY2I8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3hLsOdsY2I8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ISAsurfing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-05T05:14:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UfV5HDeQ1tA7vnvkxOSbIsT7b_k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EafHMuqTZD8"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-07T19:00:10Z",
+        "channelId": "UC_F4Iy5korq2mEWZDQhG07w",
+        "title": "SURFING NUCLEAR SANDBARS WITH TONS OF NORTH SHORE LOCALS",
+        "description": "An extremely rare sandbar formed on North Shore at the world famous wave \"Rock Piles\" right next to Pipeline, This happens ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EafHMuqTZD8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EafHMuqTZD8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EafHMuqTZD8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Koa Rothman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-07T19:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GcSguTMogZS4b3_P3x6AoI7Rh3E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Z3XWvfZYQSY"
+      },
+      "snippet": {
+        "publishedAt": "2021-04-14T02:00:03Z",
+        "channelId": "UCOtHosOqPe9d6vLy-8LfHzQ",
+        "title": "Dreamy surfing | Nias, Indonesia | Longboard | RAW DAYS",
+        "description": "Watch full film https://www.youtube.com/watch?v=0fF1nsZhw2E - Location - Nias, North Sumatra, Indonesia - Shooting month ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Z3XWvfZYQSY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Z3XWvfZYQSY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z3XWvfZYQSY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NobodySurf : Surfing Videos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-04-14T02:00:03Z"
+      }
+    }
+  ]
+}
